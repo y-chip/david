@@ -73,6 +73,8 @@ Spring Bootをつかったサーバーをもとに、OpenAPIを自動生成す�
 
 MyBatisのコードを、自動生成できるツールです。
 
+プラグインをつかって、カスタマイズしています。
+
 ### [david-client-api](https://github.com/y-chip/david-client-api)
 
 #### OpenAPI Generator
