@@ -60,6 +60,6 @@ WebAPIを提供する、サーバーです。
   </tr>
   <tr>
     <td>OpenAPI Generator</td>
-    <td>WebAPIを呼び出すコードを、自動生成できるツールです。<br>OpenAPIをもとに、動作します。<br>さまざまなプログラム言語／フレームワークにむけて、自動生成できますが、ここではTypeScript/Angularにむけて、自動生成しています。</td>
+    <td style="white-space: nowrap;">WebAPIを呼び出すコードを、自動生成できるツールです。<br>OpenAPIをもとに、動作します。<br>さまざまなプログラム言語／フレームワークにむけて、自動生成できますが、ここではTypeScript/Angularにむけて、自動生成しています。</td>
   </tr>
 </table>
