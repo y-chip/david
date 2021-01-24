@@ -39,7 +39,7 @@ WebAPIを提供する、サーバーです。
 | Spring Boot       | 支持率の高い、フレームワークです。                                      |
 | H2 Database       | 軽量なデータベースです。<br>手軽に利用するために、サーバーに組み込んでいます。 |
 | MyBatis           | SQLとオブジェクトを紐づける、フレームワークです。<br>後述する、MyBatis Generatorで自動生成しています。<br>レガシー／複雑なデータベースを想定して、選定しました。そうでなければ、JPAを使用してみたいです。 |
-| springdoc-openapi | Spring Bootをつかったサーバーをもとに、OpenAPIを自動生成するライブラリです。<br>後述する、OpenAPI Generatorのために、自動生成しています。 |
+| springdoc&#8209;openapi | Spring Bootをつかったサーバーをもとに、OpenAPIを自動生成するライブラリです。<br>後述する、OpenAPI Generatorのために、自動生成しています。 |
 
 ### david-mybatis-generator-core
 
@@ -51,15 +51,4 @@ WebAPIを提供する、サーバーです。
 
 | 構成要素           | 説明 |
 | ----------------- | ---- |
-| OpenAPI Generator | WebAPIを呼び出すコードを、自動生成できるツールです。<br>OpenAPIをもとに、動作します。<br>さまざまなプログラム言語／フレームワークにむけて、自動生成できますが、ここではTypeScript/Angularにむけて、自動生成しています。 |
-
-<table>
-  <tr>
-    <th>構成要素</th>
-    <th>説明</th>
-  </tr>
-  <tr>
-    <td>OpenAPI Generator</td>
-    <td style="white-space: nowrap;">WebAPIを呼び出すコードを、自動生成できるツールです。<br>OpenAPIをもとに、動作します。<br>さまざまなプログラム言語／フレームワークにむけて、自動生成できますが、ここではTypeScript/Angularにむけて、自動生成しています。</td>
-  </tr>
-</table>
+| OpenAPI&#160;Generator | WebAPIを呼び出すコードを、自動生成できるツールです。<br>OpenAPIをもとに、動作します。<br>さまざまなプログラム言語／フレームワークにむけて、自動生成できますが、ここではTypeScript/Angularにむけて、自動生成しています。 |
