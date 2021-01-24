@@ -2,6 +2,13 @@
 
 学習のために、作成したWebアプリケーションです。
 
+つぎのリポジトリから、構成されます。
+
+- [david-client](https://github.com/y-chip/david-client)
+- [david-server](https://github.com/y-chip/david-server)
+- [david-mybatis-generator-core](https://github.com/y-chip/david-mybatis-generator-core)
+- [david-client-api](https://github.com/y-chip/david-client-api)
+
 ## デモ
 
 準備中です。
@@ -12,7 +19,7 @@
 
 ## アーキテクチャの構成要素
 
-### [david-client](https://github.com/y-chip/david-client)
+### david-client
 
 シングルページアプリケーションのクライアントです。
 
@@ -34,7 +41,7 @@ Googleが開発した、UIコンポーネントライブラリです。
 
 高品質なUIコンポーネントが揃っています。
 
-### [david-server](https://github.com/y-chip/david-server)
+### david-server
 
 WebAPIを提供する、サーバーです。
 
@@ -67,7 +74,7 @@ Spring Bootをつかったサーバーをもとに、OpenAPIを自動生成す�
 
 後述する、OpenAPI Generatorのために、自動生成しています。
 
-### [david-mybatis-generator-core](https://github.com/y-chip/david-mybatis-generator-core)
+### david-mybatis-generator-core
 
 #### MyBatis Generator
 
@@ -75,7 +82,7 @@ MyBatisのコードを、自動生成できるツールです。
 
 プラグインをつかって、カスタマイズしています。
 
-### [david-client-api](https://github.com/y-chip/david-client-api)
+### david-client-api
 
 #### OpenAPI Generator
 
