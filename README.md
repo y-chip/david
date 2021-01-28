@@ -11,7 +11,7 @@
 
 ## デモ
 
-https://y-chip.github.io/david/sample-form
+https://y-chip.github.io/david/
 
 ## アーキテクチャ
 
